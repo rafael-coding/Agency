@@ -53,6 +53,7 @@ header ul li{
 
 header ul li a:hover{
     color: #ffc107;
+    transition: 0.5s;
 }
 
 header ul li a{
@@ -108,5 +109,6 @@ span:first-child{
 }
 
 button:hover{
-    padding: 1% 2%;
+    background-color: #ffc107;
+    transition: 0.5s;
 }
